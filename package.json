@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aruberto/react-foundation-components.git"
+    "url": "git+https://github.com/Markoham/react-foundation-components.git"
   },
   "keywords": [
     "react",
@@ -36,9 +36,9 @@
   "author": "aruberto",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/aruberto/react-foundation-components/issues"
+    "url": "https://github.com/Markoham/react-foundation-components/issues"
   },
-  "homepage": "https://github.com/aruberto/react-foundation-components#readme",
+  "homepage": "https://github.com/Markoham/react-foundation-components#readme",
   "peerDependencies": {
     "react": ">=0.14.0"
   },
